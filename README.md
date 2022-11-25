@@ -3,10 +3,7 @@ Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uit
 De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 # Ontwikkelings-Schets: Sail to succes
-
-![image](https://user-images.githubusercontent.com/112856590/203967763-d7b8456a-659a-4f5a-9e3d-d89815e8282a.png)
-
-
+![image](https://user-images.githubusercontent.com/112856590/203967988-99c2705b-0d06-4111-b786-4a5cd92f1dd1.png)
 
 ## Licentie
 
